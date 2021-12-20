@@ -1,0 +1,117 @@
+# Translation by Krzysztonek
+
+pl:
+  greetings:
+    good_morning: 'Dzień Dobry!'
+    good_afternoon: 'Miłego Popołudnia!'
+    good_evening: 'Dobry Wieczór!'
+
+  house_information:
+    title: 'Dom'
+    favorites: 'Ulubione'
+    activity: 'Aktywność (drzwi, okna, ruch)'
+
+  motion:
+    title: 'Ruch'
+    title_plural: 'Ruchy'
+
+  light:
+    title_plural: 'Oświetlenie'
+
+  door:
+    title: 'Drzwi'
+    title_plural: 'Drzwi'
+
+  window:
+    title: 'Okno'
+    title_plural: 'Okna'
+
+  climate:
+    title: 'Temperatura'
+    title_plural: 'Temperatury'
+    inside: 'wewnątrz'
+    outside: 'na zewnątrz'
+    idle: 'Stand-by'
+    heating: 'Ogrzewanie do'
+    off_text: 'wył.'
+    auto: 'Harmonogram'
+    heat: 'Ogrzewanie'
+    cool: 'Chłodzenie'
+    heat_cool: 'Ogrzewanie/Chłodzenie'
+    dry: 'Osuszanie'
+    fan_only: 'Tylko nawiew'
+    this_room: 'To pomieszczenie'
+    temperature: 'Temperatura'
+    humidity: 'Wilgotność'
+
+  cover:
+    title_plural: 'Kurtyny'
+
+  device:
+    title_plural: 'Urządzenia'
+
+  safety:
+    title_plural: 'Zabezpieczenia'
+
+  media_player:
+    title_plural: 'Odtwarzacze multimedialne'
+
+  vacuum:
+    title: 'Odkurzacz'
+    title_plural: 'Odkurzacze'
+
+  plant:
+    title_plural: 'Rośliny'
+
+  home:
+    title: 'Strona główna'
+
+  rooms:
+    title: 'Pokoje'
+
+  all_lights:
+    title: 'Wszystkie światła'
+
+  scenes:
+    title: 'Sceny'
+    not_defined: 'Brak zdefiniowanych scen'
+
+  cameras:
+    title: 'Kamery'
+    not_defined: 'Brak zdefiniowanych kamer'
+
+  more_page:
+    title: 'Więcej...'
+    house_info: 'Dom'
+    house_data: 
+      title: 'Dane o domu'
+      all_sensors: 'Wszystkie sensory'
+      all_batteries: 'Wszystkie baterie'
+      config: 'Konfiguracja'
+      developer_tools: 'Narzędzia deweloperskie'
+    settings:
+      title: 'Ustawienia motywów'
+      reload_configuration: 'Odświerz konfigurację motywów'
+      theme_docs: 'Dokumentacja motywów'
+      support_paypal: 'Wesprzyj/Zasil przez PayPal'
+      buy_coffee: 'Kup mi kawę'
+      by: 'By'
+      version: 'Wersja'
+      update_available: 'Dostępna aktualizacja motywów Dwains!'
+    more_page_addons: 'Więcej dodatków'
+
+  more_entities:
+    title: 'Więcej encji'
+
+  lock:
+    title_plural: 'Blokady'
+
+  alarm:
+    title: 'Alarm'
+
+  weather:
+    title: 'Pogoda'
+
+  vibration:
+    title: 'Wibracja'
+    title_plural: 'Sensory wstrząsowe'
